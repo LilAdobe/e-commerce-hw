@@ -11,4 +11,4 @@ Creating models and routes for e-commerce-hw
 
 ## Links
 - [Github](https://github.com/LilAdobe/e-commerce-hw)
-- [Walkthrough Video]()
+- [Walkthrough Video](https://drive.google.com/file/d/1-U88yBD5WUyu8UrdLS2XDiTor48jslv8/view?usp=sharing)
